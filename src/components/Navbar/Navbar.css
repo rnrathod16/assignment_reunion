@@ -1,0 +1,69 @@
+    .btn-outline-success:hover {
+        color: #fff;
+        background-color: #5228a7;
+        border-color: #5228a7;
+    }
+    
+    .btn-outline-success {
+        color: #5228a7;
+        border-color: #5228a7;
+    }
+    
+    .btn-outline-success:not(:disabled):not(.disabled).active,
+    .btn-outline-success:not(:disabled):not(.disabled):active,
+    .show>.btn-outline-success.dropdown-toggle {
+        color: #fff;
+        background-color: #5228a7;
+        border-color: #5228a7;
+    }
+    
+    .btn-outline-success:not(:disabled):not(.disabled).active:focus,
+    .btn-outline-success:not(:disabled):not(.disabled):active:focus,
+    .show>.btn-outline-success.dropdown-toggle:focus {
+        box-shadow: 0 0 0 0.2rem rgba(40, 46, 167, 0.5);
+    }
+    
+    .btn-outline-success.focus,
+    .btn-outline-success:focus {
+        box-shadow: 0 0 0 0.2rem rgba(40, 68, 167, 0.5);
+    }
+    
+    .btn-success {
+        color: #fff;
+        background-color: #5228a7;
+        border-color: #5228a7;
+    }
+    
+    .btn-success:hover {
+        color: #fff;
+        background-color: #5228a7;
+        border-color: #5228a7;
+    }
+    
+    .btn-success:not(:disabled):not(.disabled).active,
+    .btn-success:not(:disabled):not(.disabled):active,
+    .show>.btn-success.dropdown-toggle {
+        color: #fff;
+        background-color: #5228a7;
+        border-color: #5228a7;
+    }
+    
+    .btn-success.focus,
+    .btn-success:focus {
+        color: #fff;
+        background-color: #5228a7;
+        border-color: #5228a7;
+        box-shadow: 0 0 0 0.2rem rgba(36, 65, 150, 0.5);
+    }
+    
+    .btn-success:not(:disabled):not(.disabled).active:focus,
+    .btn-success:not(:disabled):not(.disabled):active:focus,
+    .show>.btn-success.dropdown-toggle:focus {
+        box-shadow: 0 0 0 0.2rem rgba(33, 64, 142, 0.5);
+    }
+    
+    .navbar-light .navbar-nav .nav-link:focus,
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: rgb(19 61 213 / 70%);
+        background: #e6e6e6;
+    }
